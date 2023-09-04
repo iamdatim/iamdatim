@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/omondi8399/count.svg" />
+  <img src="https://profile-counter.glitch.me/iamdatim/count.svg" />
 </p>
 <h3 align="center">A Full Stack .Net Developer .</h3>
 
