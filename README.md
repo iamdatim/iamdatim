@@ -90,8 +90,8 @@
     <tr>
     <td>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://th.bing.com/th/id/R.312a7a558cf4b45ffbad8cc1c9519977?rik=%2fec3anlDWBoA%2bg&riu=http%3a%2f%2fwww.coretec.co.ke%2fimages%2fMicrosoft_SQL_server_logo.png&ehk=0RPsKcRifOAVLYzZHNJwQV3tpXFuZUXPxqadFOQLPIs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="36" height="36" alt="sqlserver" />
+        <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
+          <img src="https://logodix.com/logo/542051.png" width="36" height="36" alt="sqlserver" />
         </a>
         <p align="center">Sql Server</p>
       </p>
