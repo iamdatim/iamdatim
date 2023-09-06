@@ -96,5 +96,13 @@
         <p align="center">Sql Server</p>
       </p>
     </td>
+    <td>
+      <p align="center">
+        <a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer">
+          <img src="https://miro.medium.com/max/512/1*5fQvZr2W6ydJ1fxjLgwhcg.png" width="36" height="36" alt="Asp.Net_Core" />
+        </a>
+        <p align="center">Asp.Net Core</p>
+      </p>
+    </td>
   </tr>
 </table>
