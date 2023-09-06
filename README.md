@@ -55,7 +55,7 @@
         <td>
       <p align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://th.bing.com/th/id/R.312a7a558cf4b45ffbad8cc1c9519977?rik=%2fec3anlDWBoA%2bg&riu=http%3a%2f%2fwww.coretec.co.ke%2fimages%2fMicrosoft_SQL_server_logo.png&ehk=0RPsKcRifOAVLYzZHNJwQV3tpXFuZUXPxqadFOQLPIs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="36" height="36" alt="CSS3" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
       </a>
         <p align="center">CSS</p>
       </p>
@@ -91,9 +91,9 @@
     <td>
       <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+          <img src="https://th.bing.com/th/id/R.312a7a558cf4b45ffbad8cc1c9519977?rik=%2fec3anlDWBoA%2bg&riu=http%3a%2f%2fwww.coretec.co.ke%2fimages%2fMicrosoft_SQL_server_logo.png&ehk=0RPsKcRifOAVLYzZHNJwQV3tpXFuZUXPxqadFOQLPIs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width="36" height="36" alt="sqlserver" />
         </a>
-        <p align="center">JavaScript</p>
+        <p align="center">Sql Server</p>
       </p>
     </td>
   </tr>
