@@ -8,7 +8,7 @@
 
 <h3 align="center"> 🌱 I’m actively building Web Applications and Web Api.</h3>
 
-<h3 align="center"> 💬 Ask me about C# and Asp.Net Core</h3>
+<h3 align="center"> 💬 Ask me about C# and Asp.Net Core.</h3>
 
 <h3 align="center"> 📫 How to reach me timileyin4baze@gmail.com</h3>
 
