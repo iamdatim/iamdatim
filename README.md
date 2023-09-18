@@ -12,7 +12,7 @@
 
 <h3 align="center"> 📫 How to reach me timileyin4baze@gmail.com</h3>
 
- <h3 align="center">⚡ I want to impact the lives of others using code</h3>
+ <h3 align="center">⚡ I want to impact the lives of others using code.</h3>
  
 <h3 align="center">Connect with me: <p>
 <a href="https://twitter.com/its_datim?s=21&t=k4lEMmXMx9BOsas0VUn5jA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://mobile.twitter.com/rojas__eth?t=qfkzjKfX1_hYzzz6SRaJ-Q&s=09" height="30" width="40" /></a>
