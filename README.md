@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/iamdatim/count.svg" />
 </p>
-<h3 align="center">A Full Stack .Net Developer</h3>
+<h3 align="center">A Full Stack .Net Developer.</h3>
 
 <h3 align="center"> 🌱 I’m actively building Web Applications and Web Api</h3>
 
