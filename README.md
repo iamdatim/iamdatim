@@ -107,7 +107,7 @@
         <td>
       <p align="center">
         <a href="https://angular.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.cleanpng.com/png-angularjs-scalable-vector-graphics-portable-networ-7312229/" width="36" height="36" alt="Asp.Net_Core" />
+          <img src="https://w7.pngwing.com/pngs/665/754/png-transparent-angularjs-typescript-node-js-javascript-letter-a-angle-class-rectangle-thumbnail.png" width="36" height="36" alt="Asp.Net_Core" />
         </a>
         <p align="center">Angular</p>
       </p>
